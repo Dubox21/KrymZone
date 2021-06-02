@@ -1,1 +1,1 @@
-echo "practicando":
+echo "practicando";
